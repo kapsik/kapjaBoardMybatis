@@ -1,0 +1,87 @@
+@charset "UTF-8";
+#home_body{
+
+	text-align:center; 
+	margin:0 auto;
+	padding:30px 60px;
+	background-color:rgb(233, 233, 233) ;
+}
+
+#home_login{
+
+	text-align: center;
+	padding:13px 70px;
+	
+	background-color: rgb(255, 248, 242);
+}
+
+#listViewUp{
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	
+	margin:0 auto;
+	background-color: #F2F2F2;
+}
+
+#listViewDetailUp{
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	
+	margin:0 auto;
+	background-color: #F2F2F2;
+}
+
+#lBcontent{
+	background-color: #FFFFFF;
+}
+
+#listViewReply{
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	
+	margin:0 auto;
+	background-color: #EFFBF8;
+}
+
+#rContent{
+	background-color: #FFFFFF;
+}
+
+#replyText{
+	width: 330px;
+	height: 55px;
+	text-align: left;
+	
+	margin:0 auto;
+	background-color: #FFFFFF;
+}
+
+#replyUpdate{
+	width: 55px;
+	height: 60px;
+	text-align: center;
+	
+	margin:0 auto;
+	background-color: rgb(41, 167, 136);
+}
+
+#replyWriter{
+	width: 120px;
+	height: 20px;
+	text-align: left;
+	
+	margin:0 auto;
+	background-color: #FFFFFF;
+}
+
+#replyDate{
+	width: 120px;
+	height: 20px;
+	text-align: left;
+	
+	margin-left: 80px;
+	background-color: #FFFFFF;
+}
