@@ -115,5 +115,10 @@ public class HomeController {
 		
 		return"redirect:/homePage";
 	}
+	
+	@RequestMapping(value = "/kapja",method =  RequestMethod.GET)
+	public String htmlExPage() {
+		return "home/htmlEx";
+	}
 
 }
